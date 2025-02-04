@@ -2,7 +2,7 @@
 
 Prueba técnica 
 
-
+ingresar en el archivo (Prueba Tecnica P.rar) descomprimirlo y ver el trabajo realizado con lo solicitado
 
 El siguiente análisis de datos fue una prueba técnica para análisis de datos donde se solicitaba:
 
